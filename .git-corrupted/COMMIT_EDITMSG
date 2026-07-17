@@ -1,0 +1,14 @@
+Assistant checkpoint: Add historical weather data to the temperature graph
+
+Assistant generated file changes:
+- utils.py: Add function to get historical weather data
+- app.py: Update graph to include historical data
+
+---
+
+User prompt:
+
+also add previous 2 days weather data in graph
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: be86a133-dcb1-4455-9988-8fda5dbd5532
