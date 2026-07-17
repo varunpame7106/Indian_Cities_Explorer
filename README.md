@@ -1,4 +1,4 @@
-Indian Cities Explorer
+#Indian Cities Explorer
 
 A Streamlit-based web application that helps users explore Indian cities by providing **real-time weather updates**, **5-day weather forecasts**, **tourist attractions**, and **local food recommendations**.
 
